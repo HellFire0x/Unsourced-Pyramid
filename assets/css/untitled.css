@@ -1,0 +1,5 @@
+.btn.btn-primary.btn-lg.text-info.shadow-sm.btn-default {
+  background-color: rgba(255,255,255,0);
+  filter: brightness(200%);
+}
+
